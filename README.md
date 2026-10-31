@@ -8,11 +8,11 @@
 
 Desça às cavernas, colete todos os tesouros e encontre a saída antes que os monstros te alcancem. Jogue sozinha ou chame alguém para o mesmo teclado.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Jogadores](https://img.shields.io/badge/jogadores-1--2-blueviolet)
-![Status](https://img.shields.io/badge/status-concluído-success)
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) &nbsp; ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) &nbsp; ![Jogadores](https://img.shields.io/badge/Jogadores_1--2-8A2BE2) &nbsp; ![Status](https://img.shields.io/badge/Status_concluído-2EA44F)
+
+</div>
 
 </div>
 
