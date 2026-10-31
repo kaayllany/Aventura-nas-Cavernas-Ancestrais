@@ -91,8 +91,9 @@ Não usa frameworks nem bibliotecas externas. Tudo roda em um único arquivo HTM
 
 
 
-## **Kaylany** 
-· Estudante de Análise e Desenvolvimento de Sistemas (UNICID)
+##  Autoria
+
+Projeto desenvolvido em grupo por **Kaylany** e colegas, na graduação em **Análise e Desenvolvimento de Sistemas (UNICID)**.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaylany-thayna-b82931199) &nbsp;&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaayllany) &nbsp;&nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaylanythayna@hotmail.com)
