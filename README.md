@@ -13,10 +13,6 @@ Jogo de navegador para **1 ou 2 jogadores** (modo cooperativo), inspirado em *Ba
 ![Jogadores](https://img.shields.io/badge/jogadores-1--2-blueviolet)
 ![Status](https://img.shields.io/badge/status-concluído-success)
 
-### [▶️ Jogar agora](https://kaayllany.github.io/Aventura-nas-Cavernas-Ancestrais/)
-
-<img src="docs/menu.jpg" alt="Menu principal do jogo Aventura nas Cavernas Ancestrais" width="720" />
-
 </div>
 
 ---
