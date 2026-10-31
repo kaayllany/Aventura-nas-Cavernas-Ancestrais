@@ -1,12 +1,21 @@
 <div align="center">
 
-# 🕹️ Aventura nas Cavernas Ancestrais
+# 🦴 Aventura nas Cavernas Ancestrais
 
-Jogo cooperativo para navegador, feito em HTML.
+**Explore. Colete. Sobreviva.**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Modo](https://img.shields.io/badge/modo-cooperativo-blueviolet)
+Jogo de navegador para **1 ou 2 jogadores** (modo cooperativo), inspirado em *Bad Ice Cream*, com 10 cavernas, inimigos e pedras que você cria e quebra para sobreviver.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Canvas](https://img.shields.io/badge/Canvas-2D-informational)
+![Jogadores](https://img.shields.io/badge/jogadores-1--2-blueviolet)
 ![Status](https://img.shields.io/badge/status-concluído-success)
+
+### [▶️ Jogar agora](https://kaayllany.github.io/Aventura-nas-Cavernas-Ancestrais/)
+
+<img src="docs/menu.jpg" alt="Menu principal do jogo Aventura nas Cavernas Ancestrais" width="720" />
 
 </div>
 
@@ -14,47 +23,126 @@ Jogo cooperativo para navegador, feito em HTML.
 
 ## 📖 Sobre o projeto
 
-**Aventura nas Cavernas Ancestrais** é um jogo cooperativo que roda direto no navegador. Os jogadores exploram cavernas antigas juntos, tomando decisões e superando desafios em equipe.
+**Aventura nas Cavernas Ancestrais** é um jogo de ação e estratégia em grade que roda direto no navegador, sem instalação. Você controla um herói por 10 cavernas, coleta todos os tesouros, foge dos monstros e usa pedras para bloquear caminhos e se proteger. Quando o último tesouro é coletado, a saída da caverna aparece.
 
-O projeto foi desenvolvido na faculdade para praticar lógica, estrutura de páginas e interação com o usuário.
+O jogo pode ser jogado **sozinho** ou **em dupla, no mesmo teclado**. Foi desenvolvido na graduação em Análise e Desenvolvimento de Sistemas (UNICID) para praticar lógica de programação, desenvolvimento de jogos e interface web.
+
+## 🎯 Objetivo
+
+1. Colete **todos os tesouros** da caverna: moedas, gemas, amuletos, cogumelos, orbes e provisões.
+2. Quando o último tesouro for coletado, a **saída aparece**. Corra até ela!
+3. Use **pedras** para bloquear os monstros e abra caminho quebrando as que você criou.
+4. Se um herói cair, o outro pode continuar. O jogo só termina se **todos** os heróis forem derrotados.
+
+## 🎮 Controles
+
+| Ação | Jogador 1 | Jogador 2 |
+|---|:---:|:---:|
+| Mover | `↑` `↓` `←` `→` | `W` `A` `S` `D` |
+| Criar pedra | `Espaço` | `F` |
+| Quebrar pedra | `Enter` | `G` |
+| Pausar | `Esc` | `Esc` |
+
+A pedra é criada (ou quebrada) no bloco para onde o herói está olhando.
+
+<div align="center">
+  <img src="docs/como-jogar.jpg" alt="Tela Como jogar, com os controles dos dois jogadores" width="720" />
+</div>
 
 ## ✨ Funcionalidades
 
-- 🤝 Jogabilidade **cooperativa**
-- 🌐 Roda no navegador, sem instalação
-- 🧩 Desafios e decisões ao longo da aventura
+- 🗺️ **10 cavernas** com mapas diferentes e dificuldade crescente (de 9 a 25 tesouros por caverna)
+- 👥 **1 ou 2 jogadores** no mesmo computador, com modo **cooperativo**
+- 🧙 **3 heróis** à escolha: Assassino, Guerreiro e Andarilho
+- 🪨 **Pedras estratégicas**: crie barreiras contra os inimigos e quebre-as para abrir caminho
+- 👹 **Inimigos com comportamentos diferentes** (veja abaixo)
+- ⭐ **Sistema de 1 a 3 estrelas** por caverna
+- 💾 **Progresso salvo no navegador**: fases liberadas e estrelas conquistadas
+- ⏱️ **Cronômetro** e contador de tesouros durante a partida
+- ⏸️ **Pausa** a qualquer momento
+- 🎨 Arte em pixel art e telas de menu ilustradas, com escala automática para o tamanho da janela
 
-> Ajuste esta lista com as mecânicas reais do jogo (fases, itens, finais etc.).
+### 👹 Inimigos
+
+| Tipo | Comportamento | Dica |
+|---|---|---|
+| **Perseguidor** (goblins, caveman, viking...) | Vai atrás do herói mais próximo | Bloqueie o caminho com pedras |
+| **Voador** | Também persegue, mas **atravessa pedras** criadas por você | Pedras não o detêm. Use as paredes da caverna |
+| **Bando** | Anda de forma aleatória pela caverna | Observe o padrão antes de passar |
+
+Cada caverna traz mais inimigos que a anterior: a caverna 1 tem 2 perseguidores, e a caverna 10 reúne 9 inimigos de todos os tipos.
+
+### ⭐ Como funcionam as estrelas
+
+| Estrelas | Condição |
+|---|---|
+| ★★★ | Concluir a caverna em até **90 segundos**, sem nenhum herói tombar |
+| ★★☆ | Perder um dos critérios acima (demorar mais de 90 s **ou** ter um herói derrotado) |
+| ★☆☆ | Perder os dois critérios |
+
+O tempo em que o jogo fica pausado não conta.
+
+<div align="center">
+  <img src="docs/mapa-de-cavernas.jpg" alt="Mapa das 10 cavernas com as estrelas conquistadas" width="720" />
+</div>
 
 ## 🛠️ Tecnologias utilizadas
 
 | Tecnologia | Uso |
 |---|---|
-| HTML5 | Estrutura e conteúdo do jogo |
-| CSS3 | Visual e layout *(se aplicável)* |
-| JavaScript | Lógica e interações *(se aplicável)* |
+| **HTML5** | Estrutura das telas e menus |
+| **CSS3** | Estilo dos menus, HUD, tela de pausa e animações |
+| **JavaScript (puro)** | Lógica do jogo, controles, inteligência dos inimigos e colisões |
+| **Canvas 2D** | Renderização do mapa, personagens e itens |
+| **localStorage** | Salvar o progresso e as estrelas no navegador |
 
-## 🚀 Como jogar
+Não usa frameworks nem bibliotecas externas. Tudo roda em um único arquivo HTML.
+
+## ▶️ Como executar
+
+**Online:** acesse [kaayllany.github.io/Aventura-nas-Cavernas-Ancestrais](https://kaayllany.github.io/Aventura-nas-Cavernas-Ancestrais/).
+
+**Localmente:**
 
 ```bash
-git clone https://github.com/kaayllany/aventura-nas-cavernas-ancestrais.git
-cd aventura-nas-cavernas-ancestrais
-# abra o index.html no navegador
+# 1. Clone o repositório
+git clone https://github.com/kaayllany/Aventura-nas-Cavernas-Ancestrais.git
+
+# 2. Entre na pasta
+cd Aventura-nas-Cavernas-Ancestrais
+
+# 3. Abra o index.html no navegador (duplo clique ou arraste para a janela)
 ```
 
-Ou acesse online (após ativar o GitHub Pages): `https://kaayllany.github.io/aventura-nas-cavernas-ancestrais`
+Funciona em navegadores atuais (Chrome, Edge, Firefox). Não precisa de servidor nem de instalação.
 
-## 🎮 Como funciona
+## 📁 Estrutura do projeto
 
-1. Abra o jogo no navegador
-2. Reúna os jogadores
-3. Explorem as cavernas e cooperem para avançar
+```
+Aventura-nas-Cavernas-Ancestrais/
+├── index.html          # Jogo completo (HTML, CSS, JavaScript e arte embutidos)
+├── docs/               # Imagens usadas neste README
+│   ├── menu.jpg
+│   ├── como-jogar.jpg
+│   └── mapa-de-cavernas.jpg
+└── README.md
+```
 
-## 📸 Preview
+## 🚧 Ideias para o futuro
 
-> Adicione aqui um print ou GIF do jogo: `![Gameplay](assets/gameplay.gif)`
+- [ ] Modo competitivo para dois jogadores
+- [ ] Efeitos sonoros e trilha musical
+- [ ] Controles por toque para celular
+- [ ] Novos tipos de inimigos e itens especiais
+- [ ] Editor de cavernas
 
-## 📫 Autora
+## 👩‍💻 Autora
 
-**Kaylany** · Estudante de ADS na UNICID
-[LinkedIn](https://www.linkedin.com/in/kaylany-thayna) · kaylanythayna@hotmail.com
+**Kaylany Thayna** · Estudante de Análise e Desenvolvimento de Sistemas (UNICID)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaylany-thayna)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/kaayllany)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaylanythayna@hotmail.com)
+
+
+
