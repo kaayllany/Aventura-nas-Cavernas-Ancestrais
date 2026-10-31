@@ -18,20 +18,20 @@ Desça às cavernas, colete todos os tesouros e encontre a saída antes que os m
 
 ---
 
-## 📖 Sobre o projeto
+##  Sobre o projeto
 
 **Aventura nas Cavernas Ancestrais** é um jogo de ação e estratégia em grade que roda direto no navegador, sem instalação. Você controla um herói por 10 cavernas, coleta todos os tesouros, foge dos monstros e usa pedras para bloquear caminhos e se proteger. Quando o último tesouro é coletado, a saída da caverna aparece.
 
 O jogo pode ser jogado **sozinho** ou **em dupla, no mesmo teclado**. Foi desenvolvido em grupo na graduação em Análise e Desenvolvimento de Sistemas (UNICID) para praticar lógica de programação, desenvolvimento de jogos e interface web.
 
-## 🎯 Objetivo
+##  Objetivo
 
 1. Colete **todos os tesouros** da caverna: moedas, gemas, amuletos, cogumelos, orbes e provisões.
 2. Quando o último tesouro for coletado, a **saída aparece**. Corra até ela!
 3. Use **pedras** para bloquear os monstros e abra caminho quebrando as que você criou.
 4. Se um herói cair, o outro pode continuar. O jogo só termina se **todos** os heróis forem derrotados.
 
-## 🎮 Controles
+##  Controles
 
 | Ação | Jogador 1 | Jogador 2 |
 |---|:---:|:---:|
@@ -43,7 +43,7 @@ O jogo pode ser jogado **sozinho** ou **em dupla, no mesmo teclado**. Foi desenv
 A pedra é criada (ou quebrada) no bloco para onde o herói está olhando. Só é possível quebrar as pedras criadas por você; as rochas da caverna são fixas.
 
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - 🗺️ **10 cavernas** com mapas diferentes e dificuldade crescente (de 9 a 25 tesouros por caverna)
 - 👥 **1 ou 2 jogadores** no mesmo computador, com modo **cooperativo**
@@ -56,7 +56,7 @@ A pedra é criada (ou quebrada) no bloco para onde o herói está olhando. Só �
 - ⏸️ **Pausa** a qualquer momento
 - 🎨 Arte em pixel art e telas de menu ilustradas, com escala automática para o tamanho da janela
 
-### 👹 Inimigos
+###  Inimigos
 
 | Tipo | Comportamento | Dica |
 |---|---|---|
@@ -66,7 +66,7 @@ A pedra é criada (ou quebrada) no bloco para onde o herói está olhando. Só �
 
 Cada caverna traz mais inimigos que a anterior: a caverna 1 tem 2 perseguidores, e a caverna 10 reúne 9 inimigos de todos os tipos.
 
-### ⭐ Como funcionam as estrelas
+###  Como funcionam as estrelas
 
 | Estrelas | Condição |
 |---|---|
@@ -77,7 +77,7 @@ Cada caverna traz mais inimigos que a anterior: a caverna 1 tem 2 perseguidores,
 O tempo em que o jogo fica pausado não conta.
 
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 | Tecnologia | Uso |
 |---|---|
@@ -89,8 +89,6 @@ O tempo em que o jogo fica pausado não conta.
 
 Não usa frameworks nem bibliotecas externas. Tudo roda em um único arquivo HTML.
 
-
-## 👩‍💻 Autora
 
 **Kaylany** · Estudante de Análise e Desenvolvimento de Sistemas (UNICID)
 
