@@ -91,9 +91,8 @@ Não usa frameworks nem bibliotecas externas. Tudo roda em um único arquivo HTM
 
 
 
-
-
-## **Kaylany** · Estudante de Análise e Desenvolvimento de Sistemas (UNICID)
+## **Kaylany** 
+· Estudante de Análise e Desenvolvimento de Sistemas (UNICID)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaylany-thayna-b82931199?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
