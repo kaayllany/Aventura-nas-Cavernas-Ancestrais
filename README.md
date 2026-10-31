@@ -6,7 +6,7 @@
 
 **Explore. Colete. Sobreviva.**
 
-Jogo de navegador para **1 ou 2 jogadores** (modo cooperativo), inspirado em *Bad Ice Cream*, com 10 cavernas, inimigos e pedras que você cria e quebra para sobreviver.
+Desça às cavernas, colete todos os tesouros e encontre a saída antes que os monstros te alcancem. Jogue sozinha ou chame alguém para o mesmo teclado.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -22,7 +22,7 @@ Jogo de navegador para **1 ou 2 jogadores** (modo cooperativo), inspirado em *Ba
 
 **Aventura nas Cavernas Ancestrais** é um jogo de ação e estratégia em grade que roda direto no navegador, sem instalação. Você controla um herói por 10 cavernas, coleta todos os tesouros, foge dos monstros e usa pedras para bloquear caminhos e se proteger. Quando o último tesouro é coletado, a saída da caverna aparece.
 
-O jogo pode ser jogado **sozinho** ou **em dupla, no mesmo teclado**. Foi desenvolvido na graduação em Análise e Desenvolvimento de Sistemas (UNICID) para praticar lógica de programação, desenvolvimento de jogos e interface web.
+O jogo pode ser jogado **sozinho** ou **em dupla, no mesmo teclado**. Foi desenvolvido em grupo na graduação em Análise e Desenvolvimento de Sistemas (UNICID) para praticar lógica de programação, desenvolvimento de jogos e interface web.
 
 ## 🎯 Objetivo
 
@@ -40,8 +40,7 @@ O jogo pode ser jogado **sozinho** ou **em dupla, no mesmo teclado**. Foi desenv
 | Quebrar pedra | `Enter` | `G` |
 | Pausar | `Esc` | `Esc` |
 
-
-A pedra é criada (ou quebrada) no bloco para onde o herói está olhando.
+A pedra é criada (ou quebrada) no bloco para onde o herói está olhando. Só é possível quebrar as pedras criadas por você; as rochas da caverna são fixas.
 
 
 ## ✨ Funcionalidades
