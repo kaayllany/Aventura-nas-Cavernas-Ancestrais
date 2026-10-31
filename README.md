@@ -39,15 +39,10 @@ O jogo pode ser jogado **sozinho** ou **em dupla, no mesmo teclado**. Foi desenv
 | Criar pedra | `Espaço` | `F` |
 | Quebrar pedra | `Enter` | `G` |
 | Pausar | `Esc` | `Esc` |
-<img width="800" height="400" alt="1791932279205" src="https://github.com/user-attachments/assets/23a42434-0c35-4da5-953a-c743048771aa" />
 
 
 A pedra é criada (ou quebrada) no bloco para onde o herói está olhando.
 
-<div align="center">
-  <img src="<img width="800" height="400" alt="1791932279096" src="https://github.com/user-attachments/assets/66361e65-7cb8-44ad-be85-41d7de39d05b" />
-" width="720" />
-</div>
 
 ## ✨ Funcionalidades
 
@@ -82,10 +77,6 @@ Cada caverna traz mais inimigos que a anterior: a caverna 1 tem 2 perseguidores,
 
 O tempo em que o jogo fica pausado não conta.
 
-<div align="center">
-  <img src="<img width="800" height="475" alt="1791932279889" src="https://github.com/user-attachments/assets/1f52e173-3bca-4d2c-9d54-a1ad5b6cbcb4" />
-" width="720" />
-</div>
 
 ## 🛠️ Tecnologias utilizadas
 
