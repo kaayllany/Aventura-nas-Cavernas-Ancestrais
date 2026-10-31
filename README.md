@@ -4,9 +4,9 @@
 <img width="800" height="400" alt="1791932279286" src="https://github.com/user-attachments/assets/42616d10-acb9-4f8a-9e40-a644d5d9f0a5" />
 
 
-**Explore. Colete. Sobreviva.**
+**Explore, Colete, Sobreviva**
 
-Desça às cavernas, colete todos os tesouros e encontre a saída antes que os monstros te alcancem. Jogue sozinha ou chame alguém para o mesmo teclado.
+Cada tesouro te aproxima da saída, e cada passo pode ser o último. Encare 10 cavernas, 3 heróis e monstros que não desistem. Sozinha ou em dupla, quem vai sobreviver?
 
 <div align="center">
 
