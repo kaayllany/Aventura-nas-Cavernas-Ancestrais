@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🦴 Aventura nas Cavernas Ancestrais
+# 🕹️ Aventura nas Cavernas Ancestrais
+<img width="800" height="400" alt="1791932279286" src="https://github.com/user-attachments/assets/42616d10-acb9-4f8a-9e40-a644d5d9f0a5" />
+
 
 **Explore. Colete. Sobreviva.**
 
@@ -9,7 +11,6 @@ Jogo de navegador para **1 ou 2 jogadores** (modo cooperativo), inspirado em *Ba
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Canvas](https://img.shields.io/badge/Canvas-2D-informational)
 ![Jogadores](https://img.shields.io/badge/jogadores-1--2-blueviolet)
 ![Status](https://img.shields.io/badge/status-concluído-success)
 
@@ -94,50 +95,15 @@ O tempo em que o jogo fica pausado não conta.
 
 Não usa frameworks nem bibliotecas externas. Tudo roda em um único arquivo HTML.
 
-## ▶️ Como executar
-
-**Online:** acesse [kaayllany.github.io/Aventura-nas-Cavernas-Ancestrais](https://kaayllany.github.io/Aventura-nas-Cavernas-Ancestrais/).
-
-**Localmente:**
-
-```bash
-# 1. Clone o repositório
-git clone https://github.com/kaayllany/Aventura-nas-Cavernas-Ancestrais.git
-
-# 2. Entre na pasta
-cd Aventura-nas-Cavernas-Ancestrais
-
-# 3. Abra o index.html no navegador (duplo clique ou arraste para a janela)
-```
-
-Funciona em navegadores atuais (Chrome, Edge, Firefox). Não precisa de servidor nem de instalação.
-
-## 📁 Estrutura do projeto
-
-```
-Aventura-nas-Cavernas-Ancestrais/
-├── index.html          # Jogo completo (HTML, CSS, JavaScript e arte embutidos)
-├── docs/               # Imagens usadas neste README
-│   ├── menu.jpg
-│   ├── como-jogar.jpg
-│   └── mapa-de-cavernas.jpg
-└── README.md
-```
-
-## 🚧 Ideias para o futuro
-
-- [ ] Modo competitivo para dois jogadores
-- [ ] Efeitos sonoros e trilha musical
-- [ ] Controles por toque para celular
-- [ ] Novos tipos de inimigos e itens especiais
-- [ ] Editor de cavernas
 
 ## 👩‍💻 Autora
 
-**Kaylany Thayna** · Estudante de Análise e Desenvolvimento de Sistemas (UNICID)
+**Kaylany** · Estudante de Análise e Desenvolvimento de Sistemas (UNICID)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaylany-thayna)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/kaayllany)
+
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaylanythayna@hotmail.com)
 
 
